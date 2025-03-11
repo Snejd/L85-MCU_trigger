@@ -1,0 +1,18 @@
+Volage regulator
+https://cz.mouser.com/ProductDetail/STMicroelectronics/L78L05ACUTR?qs=ea963RooIhgG%252BOLUK%2FI3vQ%3D%3D
+MCU
+https://cz.mouser.com/ProductDetail/Microchip-Technology/PIC10F200T-E-OT?qs=g6BBfX6YTkmZZeoClZTl4A%3D%3D
+MOSFET
+https://cz.mouser.com/ProductDetail/Infineon-Technologies/IPT004N03L?qs=jrjnRtnZuRuqKQmgUVbmUQ%3D%3D
+470 ohm
+https://cz.mouser.com/ProductDetail/ROHM-Semiconductor/SFR03EZPJ471?qs=byeeYqUIh0P7C5ZeFdpenw%3D%3D
+1kohm
+https://cz.mouser.com/ProductDetail/Wurth-Elektronik/560112116014?qs=mELouGlnn3c6F7vJtj%2Fnig%3D%3D
+1M
+https://cz.mouser.com/ProductDetail/ROHM-Semiconductor/SFR03EZPJ105?qs=byeeYqUIh0M3TjJjMD0Ofw%3D%3D
+33u
+https://cz.mouser.com/ProductDetail/Vishay-Sprague/298D336X06R3M2T?qs=%2FRKvNCQzLu2Cw6VrFb2Lkg%3D%3D
+0.1u
+https://cz.mouser.com/ProductDetail/KYOCERA-AVX/06035C104KAZ4A?qs=NI4NqA541gtiVdo7Hwl8%252BQ%3D%3D
+diode
+https://cz.mouser.com/ProductDetail/Taiwan-Semiconductor/TS4148-RW?qs=io7aH2hdVh4la8NfIPXYqg%3D%3D
