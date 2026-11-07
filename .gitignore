@@ -1,0 +1,14 @@
+# KiCad
+/L85STR-KiCadProject/manufacture/
+/L85STR-KiCadProject/L85STR-KiCadProject-backups/
+/L85STR-KiCadProject/fp-info-cache
+
+# MPLAB X generated files
+/MPLAB_project/AStrigger.X/build/
+/MPLAB_project/AStrigger.X/dist/
+/MPLAB_project/AStrigger.X/nbproject/private/
+
+# Archives and logs
+*.log
+*.zip
+*.7z
