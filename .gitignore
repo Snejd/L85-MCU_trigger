@@ -3,6 +3,9 @@
 /L85STR-KiCadProject/L85STR-KiCadProject-backups/
 /L85STR-KiCadProject/fp-info-cache
 
+# KiCad local editor state
+*.kicad_prl
+
 # MPLAB X generated files
 /MPLAB_project/AStrigger.X/build/
 /MPLAB_project/AStrigger.X/dist/
